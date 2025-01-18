@@ -1,4 +1,4 @@
-# Machine_Learning_2023_HW
+# Machine_Learning_2023_Homework
 Homework code and note of Machine Learning (2023 spring) taught by Hung-yi Lee (李宏毅).
 
 
