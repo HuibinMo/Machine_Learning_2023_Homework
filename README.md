@@ -1,5 +1,5 @@
 # Machine_Learning_2023_Homework
-Homework code and note of Machine Learning (2023 spring) taught by Hung-yi Lee (李宏毅).
+Homework code and note of [Machine Learning (2023 spring)](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php) taught by Hung-yi Lee (李宏毅).
 
 
 | Homework | Model |
